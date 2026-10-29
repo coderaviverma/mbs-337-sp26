@@ -110,8 +110,11 @@ Find a sample JSON file using `this link <https://raw.githubusercontent.com/kbea
    sequence and functional information.
 
 Plug this file (or some of the above samples) into an online JSON validator
-(e.g. `JSONLint <https://jsonlint.com/>`_). Try making manual changes to some of
-the entries to see what breaks the JSON format.
+(e.g. `JSONLint <https://jsonlint.com/>`_ or
+`JSONViewerTool <https://jsonviewertool.com/json-validator>`_). Both run in the
+browser, so you can validate the sample without installing additional software.
+Try making manual changes to some of the entries to see what breaks the JSON
+format.
 
 
 Read JSON into a Python3 Script
